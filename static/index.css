@@ -1,0 +1,46 @@
+head
+{
+    margin: 20px;
+}
+h1 {
+    background-color: aqua;
+}
+body {
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    color: rgb(47, 49, 54);
+    line-height: 1.6;
+    margin: 20px;
+    font-weight: 400;
+    overflow-wrap: break-word;
+    font-kerning: normal;
+}
+h2 {
+    color: red;
+}
+select {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 4px;
+}
+input {
+    width: 210px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: rgb(12, 206, 240);
+
+}
+.container {display: flex;
+    flex-direction: row;
+}
+
+.box {
+
+}

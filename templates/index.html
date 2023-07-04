@@ -1,13 +1,50 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../static/index.css">
         <script src="static/ember.js" defer></script>
+        <h1>Ember Fast, comfortable travel by electric bus</h1>
     </head>
     <body>
-        <select id="from"></select>
-        <select id="to"></select>
-        <input id="whn" type="date">
-        <button id="search">Search</button>
-        <div id="quotes"></div>
+        <p>Frequent services between Dundee, Glasgow, Edinburgh, Stirling,</p>
+         <P>Kinross, Edinburgh Airport and more. Low fares, live tracking and zero emissions.</p>
+                    <select id="from"></select>
+                    <button onclick="swapBoxes()">&harr;</button>
+                    To
+                    <select id="to"></select>
+                    Time
+                    <input id="whn" type="date">
+                    <br>
+                            Adult
+                            <button id="adult-minus">-</button>
+                            <input id="adult" value="1" size="1" readonly>
+                            <button id="adult-plus">+</button>
+                            Concession
+                            <button id="cc-minus">-</button>
+                            <input id="cc" value="1" size="1" readonly>
+                            <button id="cc-plus">+</button>
+                            Children 
+                            <button id="child-minus">-</button>
+                            <input id="child" value="1" size="1" readonly>
+                            <button id="child-plus">+</button>
+                            Young Children 
+                            <button id="young-minus">-</button>
+                            <input id="young" value="1" size="1" readonly>
+                            <button id="young-plus">+</button>        
+                            Bicycle
+                            <button id="bi-minus">-</button>
+                            <input id="bi" value="1" size="1" readonly>
+                            <button id="bi-plus">+</button> 
+                            Wheelchairs
+                            <button id="w-minus">-</button>
+                            <input id="w" value="1" size="1" readonly>
+                            <button id="w-plus">+</button> 
+                            <button id="search" type="submit">Search</button>
+                    
+                <div class="card">
+                <div id="quotes" class="card1"></div>
+                </div>
     </body>
 </html>

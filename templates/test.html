@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .filled-label {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <label for="dropdown">Select an option:</label>
+  <select id="dropdown" onchange="fillLabel()">
+    <option value="">-- Select --</option>
+    <option value="Option 1">Option 1</option>
+    <option value="Option 2">Option 2</option>
+    <option value="Option 3">Option 3</option>
+  </select>
+
+  <br><br>
+
+  <label id="filledLabel" class="filled-label"></label>
+
+  <script>
+    function fillLabel() {
+      var dropdown = document.getElementById('dropdown');
+      var selectedOption = dropdown.options[dropdown.selectedIndex].value;
+      var label = document.getElementById('filledLabel');
+
+      if (selectedOption) {
+        label.innerText = 'Selected option: ' + selectedOption;
+        label.classList.remove('filled-label');
+      } else {
+        label.innerText = '';
+        label.classList.add('filled-label');
+      }
+    }
+  </script>
+</body>
+</html>
