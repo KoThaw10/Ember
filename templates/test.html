@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script src="static/ember.js" defer></script>
+</head>
+<body>
+  <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+    <a class="navbar-brand" href="#">Bus Booking</a>
+    <!-- Navigation links... -->
+  </nav>
+
+  <div class="container mt-4">
+    <h2>Bus Booking</h2>
+    <div>
+      <label for="adult">Adult:</label>
+      <button id="adult-minus" onclick="decrement('adult')">-</button>
+      <input id="adult" value="1" size="1" readonly>
+      <button id="adult-plus" onclick="increment('adult')">+</button>
+    </div>
+
+    <div>
+      <label for="cc">Concession:</label>
+      <button id="cc-minus" onclick="decrement('cc')">-</button>
+      <input id="cc" value="0" size="1" readonly>
+      <button id="cc-plus" onclick="increment('cc')">+</button>
+    </div>
+
+    <div>
+      <label for="child">Children:</label>
+      <button id="child-minus" onclick="decrement('child')">-</button>
+      <input id="child" value="0" size="1" readonly>
+      <button id="child-plus" onclick="increment('child')">+</button>
+    </div>
+
+    <div>
+      <label for="young">Young Children:</label>
+      <button id="young-minus" onclick="decrement('young')">-</button>
+      <input id="young" value="0" size="1" readonly>
+      <button id="young-plus" onclick="increment('young')">+</button>
+    </div>
+
+    <div>
+      <label for="bi">Bicycle:</label>
+      <button id="bi-minus" onclick="decrement('bi')">-</button>
+      <input id="bi" value="0" size="1" readonly>
+      <button id="bi-plus" onclick="increment('bi')">+</button>
+    </div>
+
+    <div>
+      <label for="w">Wheelchairs:</label>
+      <button id="w-minus" onclick="decrement('w')">-</button>
+      <input id="w" value="0" size="1" readonly>
+      <button id="w-plus" onclick="increment('w')">+</button>
+    </div>
+
+    <div class="output-box mt-3" id="display">
+      <!-- Display the combined output here -->
+    </div>
+  </div>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script>
+    function increment(id) {
+      var input = document.getElementById(id);
+      var value = parseInt(input.value);
+      input.value = value + 1;
+      updateDisplay();
+    }
+
+    function decrement(id) {
+      var input = document.getElementById(id);
+      var value = parseInt(input.value);
+      if (value > 0) {
+        input.value = value - 1;
+        updateDisplay();
+      }
+    }
+
+    function updateDisplay() {
+      var adultCount = parseInt(document.getElementById("adult").value);
+      var concessionCount = parseInt(document.getElementById("cc").value);
+      var childrenCount = parseInt(document.getElementById("child").value);
+      var youngChildrenCount = parseInt(document.getElementById("young").value);
+      var bicycleCount = parseInt(document.getElementById("bi").value);
+      var wheelchairCount = parseInt(document.getElementById("w").value);
+
+      var displayDiv = document.getElementById("display");
+      displayDiv.innerHTML = "<h5>Booking Summary</h5>" +
+        "ToTal:"
+         adultCount +
+         concessionCount + 
+         childrenCount +
+         youngChildrenCount +
+         bicycleCount + 
+         wheelchairCount;
+    }
+  </script>
+</body>
+</html>

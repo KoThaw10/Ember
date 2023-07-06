@@ -1,1 +1,2545 @@
-{"quotes":[{"availability":{"seat":16,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611223,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-11T23:04:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611233,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T00:17:00+00:00"},"departure":{"scheduled":"2023-06-11T23:04:00+00:00"},"arrival":{"scheduled":"2023-06-12T00:27:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG22 LTT","vehicle_type":"coach","colour":"Black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":34,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611249,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T00:29:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611259,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T01:42:00+00:00"},"departure":{"scheduled":"2023-06-12T00:29:00+00:00"},"arrival":{"scheduled":"2023-06-12T01:52:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG71 OTA","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":37,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611275,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T02:29:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611285,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T03:42:00+00:00"},"departure":{"scheduled":"2023-06-12T02:29:00+00:00"},"arrival":{"scheduled":"2023-06-12T03:52:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG22 LTX","vehicle_type":"coach","colour":"Black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":24,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611693,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T05:32:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611703,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T06:55:00+00:00"},"departure":{"scheduled":"2023-06-12T05:32:00+00:00"},"arrival":{"scheduled":"2023-06-12T07:05:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG72 NBX","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":27,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611719,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T06:50:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611729,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T08:15:00+00:00"},"departure":{"scheduled":"2023-06-12T06:50:00+00:00"},"arrival":{"scheduled":"2023-06-12T08:25:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG72 NCD","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":21,"wheelchair":1,"bicycle":0},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611745,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T08:13:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611755,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T09:34:00+00:00"},"departure":{"scheduled":"2023-06-12T08:13:00+00:00"},"arrival":{"scheduled":"2023-06-12T09:44:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG22 LTX","vehicle_type":"coach","colour":"Black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":34,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611771,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T09:21:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611781,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T10:42:00+00:00"},"departure":{"scheduled":"2023-06-12T09:21:00+00:00"},"arrival":{"scheduled":"2023-06-12T10:52:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG22 LTT","vehicle_type":"coach","colour":"Black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":35,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611797,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T10:33:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611807,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T11:53:00+00:00"},"departure":{"scheduled":"2023-06-12T10:33:00+00:00"},"arrival":{"scheduled":"2023-06-12T12:03:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG71 OTA","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":32,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611823,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T11:48:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611833,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T13:10:00+00:00"},"departure":{"scheduled":"2023-06-12T11:48:00+00:00"},"arrival":{"scheduled":"2023-06-12T13:20:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG72 NBX","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":31,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611849,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T13:01:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611859,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T14:26:00+00:00"},"departure":{"scheduled":"2023-06-12T13:01:00+00:00"},"arrival":{"scheduled":"2023-06-12T14:36:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG72 NCD","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":23,"wheelchair":1,"bicycle":0},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611875,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T14:15:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611885,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T15:47:00+00:00"},"departure":{"scheduled":"2023-06-12T14:15:00+00:00"},"arrival":{"scheduled":"2023-06-12T15:57:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG22 LTX","vehicle_type":"coach","colour":"Black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":11,"wheelchair":1,"bicycle":1},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611901,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T15:31:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611911,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T17:11:00+00:00"},"departure":{"scheduled":"2023-06-12T15:31:00+00:00"},"arrival":{"scheduled":"2023-06-12T17:21:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG22 LTT","vehicle_type":"coach","colour":"Black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":15,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611927,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T16:52:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611937,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T18:23:00+00:00"},"departure":{"scheduled":"2023-06-12T16:52:00+00:00"},"arrival":{"scheduled":"2023-06-12T18:33:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG71 OTA","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":25,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611953,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T18:00:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611963,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T19:23:00+00:00"},"departure":{"scheduled":"2023-06-12T18:00:00+00:00"},"arrival":{"scheduled":"2023-06-12T19:33:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG72 NBX","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":34,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":611979,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T19:10:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":611989,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T20:30:00+00:00"},"departure":{"scheduled":"2023-06-12T19:10:00+00:00"},"arrival":{"scheduled":"2023-06-12T20:40:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG72 NCD","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":32,"wheelchair":1,"bicycle":1},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":612005,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T20:21:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":612015,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T21:36:00+00:00"},"departure":{"scheduled":"2023-06-12T20:21:00+00:00"},"arrival":{"scheduled":"2023-06-12T21:46:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG22 LTX","vehicle_type":"coach","colour":"Black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":25,"wheelchair":0,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":612031,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T21:35:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":612041,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-12T22:50:00+00:00"},"departure":{"scheduled":"2023-06-12T21:35:00+00:00"},"arrival":{"scheduled":"2023-06-12T23:00:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG22 LTT","vehicle_type":"coach","colour":"Black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":31,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":612057,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-12T23:04:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":612067,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-13T00:13:00+00:00"},"departure":{"scheduled":"2023-06-12T23:04:00+00:00"},"arrival":{"scheduled":"2023-06-13T00:23:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG71 OTA","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":33,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":612083,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-13T00:29:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":612093,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-13T01:38:00+00:00"},"departure":{"scheduled":"2023-06-13T00:29:00+00:00"},"arrival":{"scheduled":"2023-06-13T01:48:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG72 NCD","vehicle_type":"coach","colour":"black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true},{"availability":{"seat":37,"wheelchair":1,"bicycle":2},"prices":{"adult":770,"child":385,"young_child":0,"concession":0,"seat":0,"wheelchair":0,"bicycle":0},"legs":[{"type":"scheduled_transit","origin":{"id":29,"atco_code":"6200246935","detailed_name":"Haymarket (Stop HH)","direction":"WESTBOUND","google_place_id":"ChIJ0cmYkaXHh0gRyjZB1_s5-QU","lat":55.945848,"lon":-3.219407,"name":"Haymarket","region_name":"Edinburgh","type":"STOP_POINT","code":"EDI","code_detail":"Haymarket W","timezone":"Europe/London","heading":270,"zone":[{"longitude":-3.218616077723363,"latitude":55.94600176005104},{"longitude":-3.218625830853506,"latitude":55.945682249393464},{"longitude":-3.22022540280488,"latitude":55.94571775069763},{"longitude":-3.220215649347319,"latitude":55.94602906854528},{"longitude":-3.218616077723363,"latitude":55.94600176005104}],"area_id":43,"location_time_id":612109,"booking_cut_off_mins":0,"pre_booked_only":false,"skipped":false,"bookable":"2023-06-13T02:28:00+00:00"},"destination":{"id":2,"atco_code":"6400L00019","detailed_name":"Apollo Way","google_place_id":"ChIJE2gJVwlDhkgRBp7tM4HaqS0","lat":56.462677,"lon":-3.05468,"name":"Dundee West","region_name":"Dundee West","type":"STOP_POINT","code":"DUN","code_detail":"Dundee West","timezone":"Europe/London","heading":45,"zone":[{"longitude":-3.05502623308712,"latitude":56.46256507145948},{"longitude":-3.054729402065278,"latitude":56.462403053205456},{"longitude":-3.054150044918061,"latitude":56.46270436715984},{"longitude":-3.054468333612022,"latitude":56.462859468797895},{"longitude":-3.05502623308712,"latitude":56.46256507145948}],"area_id":14,"location_time_id":612119,"booking_cut_off_mins":10,"pre_booked_only":true,"skipped":false,"bookable":"2023-06-13T03:36:00+00:00"},"departure":{"scheduled":"2023-06-13T02:28:00+00:00"},"arrival":{"scheduled":"2023-06-13T03:46:00+00:00"},"description":{"operator":"Ember","destination_board":"E1","number_plate":"SG22 LTX","vehicle_type":"coach","colour":"Black","amenities":{"has_wifi":true,"has_toilet":true}},"trip_type":"public"}],"bookable":true}],"min_card_transaction":30}
+{
+    "quotes": [
+        {
+            "availability": {
+                "seat": 16,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611223,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-11T23:04:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611233,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T00:17:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-11T23:04:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T00:27:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG22 LTT",
+                        "vehicle_type": "coach",
+                        "colour": "Black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 34,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611249,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T00:29:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611259,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T01:42:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T00:29:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T01:52:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG71 OTA",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 37,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611275,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T02:29:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611285,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T03:42:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T02:29:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T03:52:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG22 LTX",
+                        "vehicle_type": "coach",
+                        "colour": "Black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 24,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611693,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T05:32:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611703,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T06:55:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T05:32:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T07:05:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG72 NBX",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 27,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611719,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T06:50:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611729,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T08:15:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T06:50:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T08:25:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG72 NCD",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 21,
+                "wheelchair": 1,
+                "bicycle": 0
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611745,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T08:13:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611755,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T09:34:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T08:13:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T09:44:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG22 LTX",
+                        "vehicle_type": "coach",
+                        "colour": "Black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 34,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611771,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T09:21:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611781,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T10:42:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T09:21:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T10:52:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG22 LTT",
+                        "vehicle_type": "coach",
+                        "colour": "Black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 35,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611797,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T10:33:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611807,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T11:53:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T10:33:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T12:03:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG71 OTA",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 32,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611823,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T11:48:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611833,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T13:10:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T11:48:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T13:20:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG72 NBX",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 31,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611849,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T13:01:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611859,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T14:26:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T13:01:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T14:36:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG72 NCD",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 23,
+                "wheelchair": 1,
+                "bicycle": 0
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611875,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T14:15:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611885,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T15:47:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T14:15:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T15:57:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG22 LTX",
+                        "vehicle_type": "coach",
+                        "colour": "Black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 11,
+                "wheelchair": 1,
+                "bicycle": 1
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611901,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T15:31:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611911,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T17:11:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T15:31:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T17:21:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG22 LTT",
+                        "vehicle_type": "coach",
+                        "colour": "Black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 15,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611927,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T16:52:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611937,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T18:23:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T16:52:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T18:33:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG71 OTA",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 25,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611953,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T18:00:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611963,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T19:23:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T18:00:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T19:33:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG72 NBX",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 34,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 611979,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T19:10:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 611989,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T20:30:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T19:10:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T20:40:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG72 NCD",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 32,
+                "wheelchair": 1,
+                "bicycle": 1
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 612005,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T20:21:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 612015,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T21:36:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T20:21:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T21:46:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG22 LTX",
+                        "vehicle_type": "coach",
+                        "colour": "Black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 25,
+                "wheelchair": 0,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 612031,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T21:35:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 612041,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-12T22:50:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T21:35:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-12T23:00:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG22 LTT",
+                        "vehicle_type": "coach",
+                        "colour": "Black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 31,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 612057,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-12T23:04:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 612067,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-13T00:13:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-12T23:04:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-13T00:23:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG71 OTA",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 33,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 612083,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-13T00:29:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 612093,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-13T01:38:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-13T00:29:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-13T01:48:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG72 NCD",
+                        "vehicle_type": "coach",
+                        "colour": "black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        },
+        {
+            "availability": {
+                "seat": 37,
+                "wheelchair": 1,
+                "bicycle": 2
+            },
+            "prices": {
+                "adult": 770,
+                "child": 385,
+                "young_child": 0,
+                "concession": 0,
+                "seat": 0,
+                "wheelchair": 0,
+                "bicycle": 0
+            },
+            "legs": [
+                {
+                    "type": "scheduled_transit",
+                    "origin": {
+                        "id": 29,
+                        "atco_code": "6200246935",
+                        "detailed_name": "Haymarket (Stop HH)",
+                        "direction": "WESTBOUND",
+                        "google_place_id": "ChIJ0cmYkaXHh0gRyjZB1_s5-QU",
+                        "lat": 55.945848,
+                        "lon": -3.219407,
+                        "name": "Haymarket",
+                        "region_name": "Edinburgh",
+                        "type": "STOP_POINT",
+                        "code": "EDI",
+                        "code_detail": "Haymarket W",
+                        "timezone": "Europe/London",
+                        "heading": 270,
+                        "zone": [
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            },
+                            {
+                                "longitude": -3.218625830853506,
+                                "latitude": 55.945682249393464
+                            },
+                            {
+                                "longitude": -3.22022540280488,
+                                "latitude": 55.94571775069763
+                            },
+                            {
+                                "longitude": -3.220215649347319,
+                                "latitude": 55.94602906854528
+                            },
+                            {
+                                "longitude": -3.218616077723363,
+                                "latitude": 55.94600176005104
+                            }
+                        ],
+                        "area_id": 43,
+                        "location_time_id": 612109,
+                        "booking_cut_off_mins": 0,
+                        "pre_booked_only": false,
+                        "skipped": false,
+                        "bookable": "2023-06-13T02:28:00+00:00"
+                    },
+                    "destination": {
+                        "id": 2,
+                        "atco_code": "6400L00019",
+                        "detailed_name": "Apollo Way",
+                        "google_place_id": "ChIJE2gJVwlDhkgRBp7tM4HaqS0",
+                        "lat": 56.462677,
+                        "lon": -3.05468,
+                        "name": "Dundee West",
+                        "region_name": "Dundee West",
+                        "type": "STOP_POINT",
+                        "code": "DUN",
+                        "code_detail": "Dundee West",
+                        "timezone": "Europe/London",
+                        "heading": 45,
+                        "zone": [
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            },
+                            {
+                                "longitude": -3.054729402065278,
+                                "latitude": 56.462403053205456
+                            },
+                            {
+                                "longitude": -3.054150044918061,
+                                "latitude": 56.46270436715984
+                            },
+                            {
+                                "longitude": -3.054468333612022,
+                                "latitude": 56.462859468797895
+                            },
+                            {
+                                "longitude": -3.05502623308712,
+                                "latitude": 56.46256507145948
+                            }
+                        ],
+                        "area_id": 14,
+                        "location_time_id": 612119,
+                        "booking_cut_off_mins": 10,
+                        "pre_booked_only": true,
+                        "skipped": false,
+                        "bookable": "2023-06-13T03:36:00+00:00"
+                    },
+                    "departure": {
+                        "scheduled": "2023-06-13T02:28:00+00:00"
+                    },
+                    "arrival": {
+                        "scheduled": "2023-06-13T03:46:00+00:00"
+                    },
+                    "description": {
+                        "operator": "Ember",
+                        "destination_board": "E1",
+                        "number_plate": "SG22 LTX",
+                        "vehicle_type": "coach",
+                        "colour": "Black",
+                        "amenities": {
+                            "has_wifi": true,
+                            "has_toilet": true
+                        }
+                    },
+                    "trip_type": "public"
+                }
+            ],
+            "bookable": true
+        }
+    ],
+    "min_card_transaction": 30
+}

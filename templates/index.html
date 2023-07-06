@@ -5,55 +5,66 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
         <script src="static/ember.js" defer></script>
-        <h1 style="background-color: aqua;">Ember Fast, comfortable travel by electric bus</h1>
+        
     </head>
     <body style="text-align: center;">
-        <p><b>Frequent services between Dundee, Glasgow, Edinburgh, Stirling,<br>
-        Kinross, Edinburgh Airport and more. Low fares, live tracking and zero emissions.</b></p>
-                <div>From
+        <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+            <a class="navbar-brand" href="#">Ember Fast, comfortable travel by electric bus</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          </nav>
+        <p>
+        <b>Frequent services between Dundee, Glasgow, Edinburgh, Stirling,
+        Kinross, Edinburgh Airport and more. Low fares, live tracking and zero emissions.</b></p>                <div class="form-group">From
                     <select id="from"></select>
-                    <button onclick="swapBoxes()" style="background-color: aqua;">&harr;</button>
+                    <button onclick="swapBoxes()"class="btn btn-primary">&harr;</button>
                     To
                     <select id="to"></select>
-
+                    </div>
+                <div>  
+                    Time
                     <input id="whn" type="date">
-            
-                    <div>
-                        Adult
+                </div>
+                <div>
+                        <label for="adult">Adult</label>
                         <button id="adult-minus" onclick="decrement('adult')">-</button>
                         <input id="adult" value="1" size="1" readonly>
                         <button id="adult-plus" onclick="increment('adult')">+</button>
-                      
-                        Concession
-                        <button id="cc-minus" onclick="decrement('cc')">-</button>
-                        <input id="cc" value="0" size="1" readonly>
-                        <button id="cc-plus" onclick="increment('cc')">+</button>
-                    
-                        Children
-                        <button id="child-minus" onclick="decrement('child')">-</button>
-                        <input id="child" value="0" size="1" readonly>
-                        <button id="child-plus" onclick="increment('child')">+</button>
-                      
-                        Young Children
-                        <button id="young-minus" onclick="decrement('young')">-</button>
-                        <input id="young" value="0" size="1" readonly>
-                        <button id="young-plus" onclick="increment('young')">+</button>
-                    
-                        Bicycle
+               
+                        <label for="adult">Concession</label>
+                        <button id="cc-minus" onclick="decrement2('cc')">-</button>
+                        <input  id="cc" value="0" size="1" readonly>
+                        <button id="cc-plus" onclick="increment2('cc')">+</button>
+               
+                    <label for="adult">Children</label>
+                        <button id="child-minus" onclick="decrement2('child')">-</button>
+                        <input  id="child" value="0" size="1" readonly>
+                        <button id="child-plus" onclick="increment2('child')">+</button>
+                
+                    <label for="adult">Young Children</label>
+                        <button id="young-minus" onclick="decrement2('young')">-</button>
+                        <input  id="young" value="0" size="1" readonly>
+                        <button id="young-plus" onclick="increment2  ('young')">+</button>
+                
+                    <label for="adult">Bicycle</label>
                         <button id="bi-minus" onclick="decrement1('bi')">-</button>
-                        <input id="bi" value="0" size="1" readonly>
+                        <input  id="bi" value="0" size="1" readonly>
                         <button id="bi-plus" onclick="increment1('bi')">+</button>
-                   
-                        Wheelchairs
+                
+                    <label for="adult">Wheelchairs</label>
                         <button id="w-minus" onclick="decrement1('w')">-</button>
-                        <input id="w" value="0" size="1" readonly>
+                        <input  id="w" value="0" size="1" readonly>
                         <button id="w-plus" onclick="increment1('w')">+</button>
+                </div>
                      <div style="text-align: center;">
-                        <button id="search" type="submit" style="background-color: aqua;width: 200px;">Search</button>
+                        <button id="search" type="submit" class="btn btn-primary">Search</button>
+                    </div>
+                    <div class="output-box mt-3" id="display">
                     </div>
                     </div>
                 </div>
-                <div id="quotes" class="container"></div>
+                <div id="quotes" class="output-box mt-3"></div>
                 </div>
     </body>
 </html>
