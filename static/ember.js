@@ -29,31 +29,46 @@ document.getElementById('search').onclick = () => {
       for (let s of r.services) {
         var adultCount = parseInt(document.getElementById("adult").value);
         var childCount = parseInt(document.getElementById("child").value);
+        var ConcessionCount = parseInt(document.getElementById("cc").value);
+        var youngchildCount = parseInt(document.getElementById("young").value);
+
         var totalAmount = (adultCount * s.prices.adult) + (childCount * s.prices.child);
         let div = document.createElement('div');
         if (s.availability.seat > 0) {
           const div = document.createElement("div");
-          div.innerHTML = `<b>Available</b> Adult: ${adultCount} Child: ${childCount}<br>
-                            Departs: ${s.depart} Arrives: ${s.arrive} Seats free: ${s.availability.seat}<br>
+          div.innerHTML = `<b>Available</b><br> Adult: ${adultCount} Concession:${ConcessionCount}<br>
+                            Children: ${childCount} YoungChildren:${youngchildCount}<br>
+                            Departs: ${s.depart} Arrives: ${s.arrive}<br>
+                            Seats free: ${s.availability.seat} <br>
                             Price: ${totalAmount}£-<br>
                             <button class="book-button">Book</button>
                             <div class="popup" style="display: none;">
                               <div class="popup-content">
                                 <h2>Details of Booking</h2>
                                <b> <center>From ${document.getElementById("from").options[document.getElementById("from").selectedIndex].text}
-                                to ${document.getElementById("to").options[document.getElementById('to').selectedIndex].text}</center></b><br>
-                                Departs: ${s.depart}<br>
+                                to ${document.getElementById("to").options[document.getElementById('to').selectedIndex].text}</center></b>
+                                <form>
+                                <label for="name">Name:</label>
+                                <input type="text" id="name" required>
+                                <br><br>
+                                <label for="phone">Phone:</label>
+                                <input type="number" id="phone" required>
+                                <br>
+                                Departs: ${s.depart}
                                 Arrives: ${s.arrive}<br>
-                                Adult: ${adultCount} Child: ${childCount}<br>
-                                Price: ${totalAmount}£-<br>
+                                Adult: ${adultCount} <br>Concession:${ConcessionCount}<br>
+                                Children: ${childCount}<br> YoungChildren:${youngchildCount}<br>Price: ${totalAmount}£-<br>
+                            
                                 <button class="close-button" type="submit" class="btn btn-primary">Cancel</button>
                                 <button class="confirm-button" type="submit" class="btn btn-primary">Confirm</button>
                               </div>
+                              </form>
                             </div>`;
 
           document.getElementById('quotes').appendChild(div);
-
-          document.getElementById('quotes').onclick=()=>{
+          var name = document.getElementById("name").value;
+          var phone = document.getElementById("phone").value;
+          document.getElementById('quotes').onclick = () => {
             if (event.target.classList.contains('book-button')) {
               const popup = event.target.nextElementSibling;
               popup.style.display = 'block';
@@ -66,7 +81,7 @@ document.getElementById('search').onclick = () => {
           };
         }
         else {
-          div.innerHTML = `<b>unavaliable</b><br>Departs: ${s.depart} Arrives:${s.arrive} Seats free:${s.availability.seat}`;
+          div.innerHTML = `<b>unavaliable</b><br>Departs: ${s.depart} Arrives:${s.arrive} <br>Seats free:${s.availability.seat} WheelChairs free:${0} Bicycle free:${0}`;
           document.getElementById('quotes-di').append(div);
         }
       }
