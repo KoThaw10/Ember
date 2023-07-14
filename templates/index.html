@@ -1,66 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-        <script src="static/ember.js" defer></script>
-        <link rel="stylesheet" href="static/ember.css">
-    </head>
-    <body style="text-align: center;">
-        <nav class="navbar navbar-expand-md bg-dark navbar-dark">
-            <a class="navbar-brand" href="#">Ember Fast, comfortable travel by electric bus</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-          </nav>
-        <p>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script src="static/ember.js" defer></script>
+    <link rel="stylesheet" href="static/ember.css">
+    <marquee direction="right"><img src="static/clipart-bus-animated-gif-13.gif" style="width: 50px;height: 30px;">
+    </marquee>
+</head>
+
+<body style="text-align: center;">
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+        <h4 class="navbar-brand" href="#">Ember Fast, comfortable travel by electric bus</h4>
+    </nav>
+    <p>
         <b>Frequent services between Dundee, Glasgow, Edinburgh, Stirling,
-        Kinross, Edinburgh Airport and more. Low fares, live tracking and zero emissions.</b></p>                <div class="form-group">From
-                    <select id="from"></select>
-                    <button onclick="swapBoxes()"class="btn btn-primary">&harr;</button>
-                    To
-                    <select id="to"></select> 
-                    Time
-                    <input type="date" id="whn">
-                    
-                <div>
-                    <label for="adult">Adult</label>
-                        <button id="adult-minus" onclick="decrement('adult')">-</button>
-                        <input id="adult" value="1" size="1" readonly>
-                        <button id="adult-plus" onclick="increment('adult')">+</button>
+            Kinross, Edinburgh Airport and more. Low fares, live tracking and zero emissions.</b>
+    </p>
+    <div>From
+        <select id="from"></select>
+        <button onclick="swapBoxes()" class="btn btn-primary">&harr;</button>
+        To
+        <select id="to"></select>
+        Time
+        <input type="date" id="whn">
+        <div>
+            <label for="adult">Adult</label>
+            <button id="adult-minus" onclick="decrement('adult')" class="minus">-</button>
+            <input id="adult" value="1" size="1" readonly>
+            <button id="adult-plus" onclick="increment('adult')" class="plus">+</button>
 
-                        <label for="adult">Children</label>
-                        <button id="child-minus" onclick="decrement2('child')">-</button>
-                        <input  id="child" value="0" size="1" readonly>
-                        <button id="child-plus" onclick="increment2('child')">+</button>
+            <label for="chile">Children</label>
+            <button id="child-minus" onclick="decrement2('child')" class="minus">-</button>
+            <input id="child" value="0" size="1" readonly>
+            <button id="child-plus" onclick="increment2('child')" class="plus">+</button>
 
-                        <label for="adult">Concession</label>
-                        <button id="cc-minus" onclick="decrement2('cc')">-</button>
-                        <input  id="cc" value="0" size="1" readonly>
-                        <button id="cc-plus" onclick="increment2('cc')">+</button>
-                
-                        <label for="adult">Young Children</label>
-                        <button id="young-minus" onclick="decrement2('young')">-</button>
-                        <input  id="young" value="0" size="1" readonly>
-                        <button id="young-plus" onclick="increment2  ('young')">+</button>
-                
-                    <label for="adult">Bicycle</label>
-                        <button id="bi-minus" onclick="decrement1('bi')">-</button>
-                        <input  id="bi" value="0" size="1" readonly>
-                        <button id="bi-plus" onclick="increment1('bi')">+</button>
-                
-                    <label for="adult">Wheelchairs</label>
-                        <button id="w-minus" onclick="decrement1('w')">-</button>
-                        <input  id="w" value="0" size="1" readonly>
-                        <button id="w-plus" onclick="incrementW('w')">+</button>
-                    
-                        <button id="search" type="submit" class="btn btn-primary">Search</button>
+            <label for="Concession">Concession</label>
+            <button id="cc-minus" onclick="decrement2('cc')" class="minus">-</button>
+            <input id="cc" value="0" size="1" readonly>
+            <button id="cc-plus" onclick="increment2('cc')" class="plus">+</button>
 
-                </div>
-                </div>
-                <div id="quotes" class="output-box mt-3"></div>
-                <div id="quotes-di" class="output-box mt-3" style="color: brown;"></div>
-                </div>
-    </body>
+            <label for="youngchild">Young Children</label>
+            <button id="young-minus" onclick="decrement2('young')" class="minus">-</button>
+            <input id="young" value="0" size="1" readonly>
+            <button id="young-plus" onclick="increment2  ('young')" class="plus">+</button>
+            <label for="Bicycle">Bicycle</label>
+            <button id="bi-minus" onclick="decrement1('bi')" class="minus">-</button>
+            <input id="bi" value="0" size="1" readonly>
+            <button id="bi-plus" onclick="increment1('bi')" class="plus">+</button>
+
+            <label for="wheelchairs">Wheelchairs</label>
+            <button id="w-minus" onclick="decrement1('w')" class="minus">-</button>
+            <input id="w" value="0" size="1" readonly>
+            <button id="w-plus" onclick="incrementW('w')" class="plus">+</button>
+            <button id="search" type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </div>
+    <div id="quotes" class="card-container"></div>
+    <div id="quotes-di" class="card2-container" style="color: brown;"></div>
+    </div>
+</body>
+<footer>
+    <marquee direction="left"><img src="static/tenor.gif" style="width: 50px;height: 20px;"></marquee>
+</footer>
+
 </html>

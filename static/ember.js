@@ -3,14 +3,14 @@ fetch('/api/routes')
   .then(r => {
     for (let s of r.stops) {
       let opt = document.createElement('option');
-      opt.innerHTML = s.name;
+      opt.innerHTML = `${s.name} - ${s.stopName}`;
       opt.value = s.stopId;
       document.getElementById('from').append(opt);
     }
 
     for (let s of r.stops) {
       let opt = document.createElement('option');
-      opt.innerHTML = s.name;
+      opt.innerHTML = `${s.name} - ${s.stopName}`;
       opt.value = s.stopId;
       document.getElementById('to').append(opt);
     }
@@ -25,7 +25,8 @@ document.getElementById('search').onclick = () => {
       // var toText = toSelect.options[toSelect.selectedIndex].text;
 
       // document.getElementById('quotes').innerHTML = "From " + fromText + " to " + toText;
-      document.getElementById('quotes').innerHTML = `<h4>From ${document.getElementById("from").options[document.getElementById("from").selectedIndex].text} to ${document.getElementById("to").options[document.getElementById('to').selectedIndex].text}</h4>`;
+      document.getElementById('quotes').innerHTML = `<div><h4>From ${document.getElementById("from").options[document.getElementById("from").selectedIndex].text} to ${document.getElementById("to").options[document.getElementById('to').selectedIndex].text}</h4></div>
+      `;
       for (let s of r.services) {
         var adultCount = parseInt(document.getElementById("adult").value);
         var childCount = parseInt(document.getElementById("child").value);
@@ -36,17 +37,20 @@ document.getElementById('search').onclick = () => {
         let div = document.createElement('div');
         if (s.availability.seat > 0) {
           const div = document.createElement("div");
-          div.innerHTML = `<b>Available</b><br> Adult: ${adultCount} Concession:${ConcessionCount}<br>
-                            Children: ${childCount} YoungChildren:${youngchildCount}<br>
+          div.innerHTML = ` <div class='card'>
+                            <b>Available</b> Adult: ${adultCount} Concession: ${ConcessionCount}<br>
+                            Children: ${childCount} YoungChildren: ${youngchildCount}<br>
                             Departs: ${s.depart} Arrives: ${s.arrive}<br>
-                            Seats free: ${s.availability.seat} <br>
+                            Seats free: ${s.availability.seat}<br>WheelChairs free:${0} Bicycle free:${0} <br>
                             Price: ${totalAmount}£-<br>
                             <button class="book-button">Book</button>
+
+                           
                             <div class="popup" style="display: none;">
                               <div class="popup-content">
                                 <h2>Details of Booking</h2>
-                               <b> <center>From ${document.getElementById("from").options[document.getElementById("from").selectedIndex].text}
-                                to ${document.getElementById("to").options[document.getElementById('to').selectedIndex].text}</center></b>
+                               <b> <center>From ${document.getElementById("from").options[document.getElementById("from").selectedIndex].text}<br>
+                                To ${document.getElementById("to").options[document.getElementById('to').selectedIndex].text}</center></b>
                                 <form>
                                 <label for="name">Name:</label>
                                 <input type="text" id="name" required>
@@ -63,12 +67,13 @@ document.getElementById('search').onclick = () => {
                                 <button class="confirm-button" type="submit" class="btn btn-primary">Confirm</button>
                               </div>
                               </form>
+                            </div>
                             </div>`;
 
           document.getElementById('quotes').appendChild(div);
           var name = document.getElementById("name").value;
           var phone = document.getElementById("phone").value;
-          document.getElementById('quotes').onclick = () => {
+          document.getElementById('quotes').onclick = (event) => {
             if (event.target.classList.contains('book-button')) {
               const popup = event.target.nextElementSibling;
               popup.style.display = 'block';
@@ -80,8 +85,9 @@ document.getElementById('search').onclick = () => {
             }
           };
         }
-        else {
-          div.innerHTML = `<b>unavaliable</b><br>Departs: ${s.depart} Arrives:${s.arrive} <br>Seats free:${s.availability.seat} WheelChairs free:${0} Bicycle free:${0}`;
+        else if (s.availability.seat === 0) {
+          div.innerHTML = `<div class='card2'>
+                           <b>Unavaliable</b><br>Departs: ${s.depart} Arrives:${s.arrive} <br>Seats free:${s.availability.seat} WheelChairs free:${0} Bicycle free:${0}</div>`;
           document.getElementById('quotes-di').append(div);
         }
       }
@@ -175,3 +181,4 @@ var current_date = new Date();
 current_date.setDate(current_date.getDate() + 1);
 var format = current_date.toISOString().substr(0, 10);
 document.getElementById("whn").value = format;
+

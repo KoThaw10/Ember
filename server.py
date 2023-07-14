@@ -4,7 +4,7 @@ import math
 
 app = Flask(__name__)
 
-routes = json.load(open("ember_test/static/services.json"))
+routes = json.load(open("static/services.json"))
 dtoe = [a for a in routes['data']['allServiceYaml']['nodes'] if a['serviceId']=='dundee-to-edinburgh'][-1]
 
 dtoe['routes'] = dtoe['routes'][-1] # The current route
